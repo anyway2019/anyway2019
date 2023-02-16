@@ -3,9 +3,9 @@
 ![](https://github.com/faaccy/faaccy/blob/master/icons/header_1.png)
 
 * 🧐   Interested in full stack. Recent focus on unity and openGL.
-* 🌱   Currently learning AR relative skills like video tracking and camera sovler & depth image solver and apply it to unity3d App like bkool.
-* 📚   skills with unity3d vue react-native and net.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience(2 years backend & 3 years front).
+* 🌱   Currently learning video tracking and camera solver & depth image solver and apply it to unity3d app like bkool.
+* 📚   Skills with unity3d vue react-native and net.
+* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
 * ⛵   Making some project conclusions,share my experience and contributing to open-source projects.
 * 👑   Some GitHub statistical reports:
 
