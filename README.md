@@ -3,7 +3,7 @@
 ![](https://github.com/faaccy/faaccy/blob/master/icons/header_1.png)
 
 * 🧐   Interested in full stack. Recent focus on unity and openGL.
-* 🌱   Currently reading 《unity shader入门精要》《WebGL高级编程》《重构-改善既有代码的设计》.
+* 🌱   Currently reading 《重构-改善既有代码的设计》.
 * 📚   Skills with unity3d vue react-native and net.
 * 💻   With 4 years' computer science and technology education and 6 years' development working experience.
 * ⛵   Making some project conclusions,share my experience and contributing to open-source projects.
